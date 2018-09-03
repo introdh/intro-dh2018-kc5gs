@@ -19,3 +19,5 @@ I LOVE A GOOD COLLEGE MEME
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JwPxuEpG9sY
 " target="_blank"><img src="http://img.youtube.com/vi/JwPxuEpG9sY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
